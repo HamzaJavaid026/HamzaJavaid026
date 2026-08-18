@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Hamza Javaid
 
-<!--
-**HamzaJavaid026/HamzaJavaid026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Flutter & Web Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science / IT Student
+- 💻 Interested in Software Development
+- 📱 Building Flutter & Mobile Applications
+- 🌐 Learning Full-Stack Web Development
+- 🚀 Always working on new projects
+
+## 🛠️ Skills
+
+- Flutter & Dart
+- HTML, CSS & JavaScript
+- React.js
+- Node.js & Express.js
+- C++
+- Git & GitHub
+- Firebase
+- MongoDB
+- SQL
+
+## 📌 Featured Projects
+
+### 🏋️ Fitness Tracker
+A fitness tracking application for monitoring workouts and progress.
+
+### 📚 Smart Learning App
+An educational application designed to improve the learning experience.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/HamzaJavaid026
